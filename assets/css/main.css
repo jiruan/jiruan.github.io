@@ -3687,3 +3687,8 @@ input, select, textarea {
 			}
 
 	}
+        
+        .definition:hover {
+            font-color: #000000;
+            opacity: 0.5
+        }
