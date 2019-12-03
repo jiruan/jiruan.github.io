@@ -1017,11 +1017,11 @@ input, select, textarea {
 			padding: 0 1.5rem 1rem 0;
 			top: 0.25rem;
 		}
-
+                
 		.image.right {
 			float: right;
-			padding: 0 0 1rem 1.5rem;
-			top: 0.25rem;
+			padding: auto;
+                        margin: 0;
 		}
 
 		.image.fit {
